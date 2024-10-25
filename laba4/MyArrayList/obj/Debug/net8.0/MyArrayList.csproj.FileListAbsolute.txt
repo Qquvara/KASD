@@ -1,0 +1,4 @@
+C:\Users\rever\source\repos\MyArrayList\MyArrayList\obj\Debug\net8.0\MyArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rever\source\repos\MyArrayList\MyArrayList\obj\Debug\net8.0\MyArrayList.AssemblyInfoInputs.cache
+C:\Users\rever\source\repos\MyArrayList\MyArrayList\obj\Debug\net8.0\MyArrayList.AssemblyInfo.cs
+C:\Users\rever\source\repos\MyArrayList\MyArrayList\obj\Debug\net8.0\MyArrayList.csproj.CoreCompileInputs.cache
