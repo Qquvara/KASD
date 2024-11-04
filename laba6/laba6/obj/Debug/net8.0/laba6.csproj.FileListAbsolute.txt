@@ -1,4 +1,0 @@
-C:\Users\rever\source\repos\laba6\laba6\obj\Debug\net8.0\laba6.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rever\source\repos\laba6\laba6\obj\Debug\net8.0\laba6.AssemblyInfoInputs.cache
-C:\Users\rever\source\repos\laba6\laba6\obj\Debug\net8.0\laba6.AssemblyInfo.cs
-C:\Users\rever\source\repos\laba6\laba6\obj\Debug\net8.0\laba6.csproj.CoreCompileInputs.cache
