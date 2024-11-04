@@ -1,0 +1,14 @@
+C:\Users\rever\source\repos\laba1\laba1\bin\Debug\net8.0\laba1.exe
+C:\Users\rever\source\repos\laba1\laba1\bin\Debug\net8.0\laba1.deps.json
+C:\Users\rever\source\repos\laba1\laba1\bin\Debug\net8.0\laba1.runtimeconfig.json
+C:\Users\rever\source\repos\laba1\laba1\bin\Debug\net8.0\laba1.dll
+C:\Users\rever\source\repos\laba1\laba1\bin\Debug\net8.0\laba1.pdb
+C:\Users\rever\source\repos\laba1\laba1\obj\Debug\net8.0\laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rever\source\repos\laba1\laba1\obj\Debug\net8.0\laba1.AssemblyInfoInputs.cache
+C:\Users\rever\source\repos\laba1\laba1\obj\Debug\net8.0\laba1.AssemblyInfo.cs
+C:\Users\rever\source\repos\laba1\laba1\obj\Debug\net8.0\laba1.csproj.CoreCompileInputs.cache
+C:\Users\rever\source\repos\laba1\laba1\obj\Debug\net8.0\laba1.dll
+C:\Users\rever\source\repos\laba1\laba1\obj\Debug\net8.0\refint\laba1.dll
+C:\Users\rever\source\repos\laba1\laba1\obj\Debug\net8.0\laba1.pdb
+C:\Users\rever\source\repos\laba1\laba1\obj\Debug\net8.0\laba1.genruntimeconfig.cache
+C:\Users\rever\source\repos\laba1\laba1\obj\Debug\net8.0\ref\laba1.dll
