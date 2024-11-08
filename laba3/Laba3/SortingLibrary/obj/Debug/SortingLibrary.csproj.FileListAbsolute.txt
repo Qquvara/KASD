@@ -1,0 +1,6 @@
+C:\Users\artem\source\repos\SortingLibrary\SortingLibrary\bin\Debug\SortingLibrary.dll
+C:\Users\artem\source\repos\SortingLibrary\SortingLibrary\bin\Debug\SortingLibrary.pdb
+C:\Users\artem\source\repos\SortingLibrary\SortingLibrary\obj\Debug\SortingLibrary.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\SortingLibrary\SortingLibrary\obj\Debug\SortingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\SortingLibrary\SortingLibrary\obj\Debug\SortingLibrary.dll
+C:\Users\artem\source\repos\SortingLibrary\SortingLibrary\obj\Debug\SortingLibrary.pdb

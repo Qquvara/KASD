@@ -1,0 +1,133 @@
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\Laba3.exe
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\Laba3.pdb
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\SortingLibrary.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\ZedGraph.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\SortingLibrary.pdb
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\ZedGraph.xml
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\artem\source\repos\Laba3\Laba3\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\artem\source\repos\Laba3\Laba3\obj\Debug\Laba3.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Laba3\Laba3\obj\Debug\Laba3.Form1.resources
+C:\Users\artem\source\repos\Laba3\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+C:\Users\artem\source\repos\Laba3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\Laba3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Laba3\Laba3\obj\Debug\Laba3.csproj.Up2Date
+C:\Users\artem\source\repos\Laba3\Laba3\obj\Debug\Laba3.exe
+C:\Users\artem\source\repos\Laba3\Laba3\obj\Debug\Laba3.pdb
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\Laba3.exe
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\Laba3.pdb
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\SortingLibrary.pdb
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\ZedGraph.xml
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\obj\Debug\Laba3.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\obj\Debug\Laba3.Form1.resources
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\obj\Debug\Laba3.csproj.Up2Date
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\obj\Debug\Laba3.exe
+C:\Users\artem\Desktop\C#\GitHUB\Lab3\Laba3\Laba3\obj\Debug\Laba3.pdb
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\Laba3.exe
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\Laba3.pdb
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\SortingLibrary.pdb
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\ZedGraph.xml
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\obj\Debug\Laba3.csproj.AssemblyReference.cache
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\obj\Debug\Laba3.Form1.resources
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.cache
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\obj\Debug\Laba3.csproj.Up2Date
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\obj\Debug\Laba3.exe
+C:\Users\tigra\OneDrive\Рабочий стол\GitHUB\Lab3\Laba3\obj\Debug\Laba3.pdb
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\Laba3.exe.config
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\Laba3.exe
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\Laba3.pdb
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\SortingLibrary.pdb
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\ZedGraph.xml
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\de\ZedGraph.resources.dll
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\es\ZedGraph.resources.dll
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\fr\ZedGraph.resources.dll
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\hu\ZedGraph.resources.dll
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\it\ZedGraph.resources.dll
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\ja\ZedGraph.resources.dll
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\pt\ZedGraph.resources.dll
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\ru\ZedGraph.resources.dll
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\sk\ZedGraph.resources.dll
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\sv\ZedGraph.resources.dll
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\tr\ZedGraph.resources.dll
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\дз\c#\3\3\Lab3\Laba3\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\дз\c#\3\3\Lab3\Laba3\obj\Debug\Laba3.csproj.AssemblyReference.cache
+D:\дз\c#\3\3\Lab3\Laba3\obj\Debug\Laba3.Form1.resources
+D:\дз\c#\3\3\Lab3\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+D:\дз\c#\3\3\Lab3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.cache
+D:\дз\c#\3\3\Lab3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+D:\дз\c#\3\3\Lab3\Laba3\obj\Debug\Laba3.csproj.Up2Date
+D:\дз\c#\3\3\Lab3\Laba3\obj\Debug\Laba3.exe
+D:\дз\c#\3\3\Lab3\Laba3\obj\Debug\Laba3.pdb
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\Laba3.exe
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\Laba3.pdb
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\ZedGraph.dll
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\SortingLibrary.pdb
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\ZedGraph.xml
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\rever\source\repos\laba3\Laba3\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\rever\source\repos\laba3\Laba3\obj\Debug\Laba3.csproj.AssemblyReference.cache
+C:\Users\rever\source\repos\laba3\Laba3\obj\Debug\Laba3.Form1.resources
+C:\Users\rever\source\repos\laba3\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+C:\Users\rever\source\repos\laba3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.cache
+C:\Users\rever\source\repos\laba3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\rever\source\repos\laba3\Laba3\obj\Debug\Laba3.csproj.Up2Date
+C:\Users\rever\source\repos\laba3\Laba3\obj\Debug\Laba3.exe
+C:\Users\rever\source\repos\laba3\Laba3\obj\Debug\Laba3.pdb
