@@ -1,0 +1,15 @@
+C:\Users\s0188185\source\repos\laba12\laba12\bin\Debug\net6.0\laba12.exe
+C:\Users\s0188185\source\repos\laba12\laba12\bin\Debug\net6.0\laba12.deps.json
+C:\Users\s0188185\source\repos\laba12\laba12\bin\Debug\net6.0\laba12.runtimeconfig.json
+C:\Users\s0188185\source\repos\laba12\laba12\bin\Debug\net6.0\laba12.dll
+C:\Users\s0188185\source\repos\laba12\laba12\bin\Debug\net6.0\ref\laba12.dll
+C:\Users\s0188185\source\repos\laba12\laba12\bin\Debug\net6.0\laba12.pdb
+C:\Users\s0188185\source\repos\laba12\laba12\obj\Debug\net6.0\laba12.csproj.AssemblyReference.cache
+C:\Users\s0188185\source\repos\laba12\laba12\obj\Debug\net6.0\laba12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s0188185\source\repos\laba12\laba12\obj\Debug\net6.0\laba12.AssemblyInfoInputs.cache
+C:\Users\s0188185\source\repos\laba12\laba12\obj\Debug\net6.0\laba12.AssemblyInfo.cs
+C:\Users\s0188185\source\repos\laba12\laba12\obj\Debug\net6.0\laba12.csproj.CoreCompileInputs.cache
+C:\Users\s0188185\source\repos\laba12\laba12\obj\Debug\net6.0\laba12.dll
+C:\Users\s0188185\source\repos\laba12\laba12\obj\Debug\net6.0\ref\laba12.dll
+C:\Users\s0188185\source\repos\laba12\laba12\obj\Debug\net6.0\laba12.pdb
+C:\Users\s0188185\source\repos\laba12\laba12\obj\Debug\net6.0\laba12.genruntimeconfig.cache
