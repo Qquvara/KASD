@@ -1,0 +1,15 @@
+C:\Users\s0188185\source\repos\lab19\lab19\bin\Debug\net6.0\lab19.exe
+C:\Users\s0188185\source\repos\lab19\lab19\bin\Debug\net6.0\lab19.deps.json
+C:\Users\s0188185\source\repos\lab19\lab19\bin\Debug\net6.0\lab19.runtimeconfig.json
+C:\Users\s0188185\source\repos\lab19\lab19\bin\Debug\net6.0\lab19.dll
+C:\Users\s0188185\source\repos\lab19\lab19\bin\Debug\net6.0\ref\lab19.dll
+C:\Users\s0188185\source\repos\lab19\lab19\bin\Debug\net6.0\lab19.pdb
+C:\Users\s0188185\source\repos\lab19\lab19\obj\Debug\net6.0\lab19.csproj.AssemblyReference.cache
+C:\Users\s0188185\source\repos\lab19\lab19\obj\Debug\net6.0\lab19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s0188185\source\repos\lab19\lab19\obj\Debug\net6.0\lab19.AssemblyInfoInputs.cache
+C:\Users\s0188185\source\repos\lab19\lab19\obj\Debug\net6.0\lab19.AssemblyInfo.cs
+C:\Users\s0188185\source\repos\lab19\lab19\obj\Debug\net6.0\lab19.csproj.CoreCompileInputs.cache
+C:\Users\s0188185\source\repos\lab19\lab19\obj\Debug\net6.0\lab19.dll
+C:\Users\s0188185\source\repos\lab19\lab19\obj\Debug\net6.0\ref\lab19.dll
+C:\Users\s0188185\source\repos\lab19\lab19\obj\Debug\net6.0\lab19.pdb
+C:\Users\s0188185\source\repos\lab19\lab19\obj\Debug\net6.0\lab19.genruntimeconfig.cache
